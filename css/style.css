@@ -5,14 +5,19 @@ body {
 
 }
 
-.weekday {
+.weekdays, li {
   text-transform: uppercase;
-  font-size:25px;
+  font-size:15px;
   display:inline-block;
-  
+  margin-right: 10px;
+  margin: 15px;
 }
 
 /*.bin-12hr {
   
 }
 */
+
+.container {
+
+}
